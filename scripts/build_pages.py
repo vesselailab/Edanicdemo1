@@ -81,8 +81,11 @@ def main():
     pages = []
     for p in sorted(CONTENT.rglob("*.md")):
         r = parse(p)
-        if r and (r[0].get("slug") or "").startswith("/"):
-            pages.append(r)
+        if r:
+            s = str(r[0].get("slug") or "").strip().rstrip("/")
+            if s:                                    # 容忍缺前导斜杠的 slug(根级页有时无 /)
+                r[0]["slug"] = s if s.startswith("/") else "/" + s
+                pages.append(r)
     known = {fm["slug"] for fm, _ in pages}
 
     def rewrite(href: str) -> str:
