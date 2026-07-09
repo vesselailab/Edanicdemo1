@@ -202,31 +202,11 @@
     <loc>https://manus.im/playbook</loc>
   </url>
   <url>
-    <loc>https://manus.ai/answers/manus-alternatives-comparison</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
     <loc>https://manus.ai/answers/manus-skills-vs-claude-code-skills</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/use-cases/how-people-use-ai-agents-in-daily-workflows</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/coolest-ai-agent-automations</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/ai-agent-guide-manus-vs-devin-vs-chatgpt</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/manus-vs-devin-software-development-deployment</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/developers/enterprise-ai-agent-deployment-pitfalls</loc>
+    <loc>https://manus.ai/answers/manus-alternatives-comparison</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -234,15 +214,27 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
+    <loc>https://manus.ai/answers/coolest-ai-agent-automations</loc>
+    <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
     <loc>https://manus.ai/docs/browser-automation/ai-agent-proxy-vpn-sandbox</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/answers/manus-cross-border-ecommerce-workflow</loc>
-    <lastmod>2026-07-05</lastmod>
+    <loc>https://manus.ai/use-cases/how-people-use-ai-agents-in-daily-workflows</loc>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/comparisons/why-building-ai-agents-fails-and-how-action-engine-helps</loc>
+    <loc>https://manus.ai/answers/ai-agent-guide-manus-vs-devin-vs-chatgpt</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/developers/enterprise-ai-agent-deployment-pitfalls</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/manus-vs-devin-software-development-deployment</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -251,6 +243,14 @@
   </url>
   <url>
     <loc>https://manus.ai/comparisons/diy-local-agent-vs-manus-action-engine</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/manus-cross-border-ecommerce-workflow</loc>
+    <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/comparisons/why-building-ai-agents-fails-and-how-action-engine-helps</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -270,6 +270,14 @@
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
+    <loc>https://manus.ai/answers/how-to-run-business-fully-automated-by-ai-agents</loc>
+    <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/use-cases/accidental-ai-workflows-you-cant-live-without</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
     <loc>https://manus.ai/docs/browser-automation/ai-agent-surf-web-browser-sandbox</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
@@ -282,19 +290,7 @@
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/use-cases/accidental-ai-workflows-you-cant-live-without</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/how-to-run-business-fully-automated-by-ai-agents</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
     <loc>https://manus.ai/docs/browser-automation</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/use-cases/automated-data-scraping-and-file-download</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -302,11 +298,7 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/answers/manus-financial-market-data-collection-report-automation</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/use-cases/beginner-guide-to-app-automation-with-manus</loc>
+    <loc>https://manus.ai/use-cases/automated-data-scraping-and-file-download</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -314,35 +306,15 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/answers/sam-altman-says-young-people-use-chatgpt-as-an-operating-sys</loc>
+    <loc>https://manus.ai/use-cases/beginner-guide-to-app-automation-with-manus</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/answers/top-ai-agent-use-cases-worth-it</loc>
+    <loc>https://manus.ai/answers/manus-financial-market-data-collection-report-automation</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/answers/set-up-ai-agent-repeatable-content-workflow</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/godot-ai-agent-ban-vibe-coding</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/ai-agents-for-motion-design-and-video-creation</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/use-cases/build-full-stack-web-apps-with-manus-no-code</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/use-cases/coolest-things-to-automate-with-ai-agents</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/developers/how-manus-improves-agent-task-clarification-accuracy</loc>
+    <loc>https://manus.ai/answers/anyone-else-feel-like-using-chatgpt-is-actually-expanding-th-en</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -350,23 +322,15 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
+    <loc>https://manus.ai/use-cases/build-full-stack-web-apps-with-manus-no-code</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/set-up-ai-agent-repeatable-content-workflow</loc>
+    <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
     <loc>https://manus.ai/answers/build-ai-agent-from-scratch-vs-manus</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/use-cases/ai-agent-as-operating-system-for-workflows</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/sam-altman-says-young-people-use-chatgpt-as-an-operating-sys-en</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/manus-architecture-multi-step-task-decomposition</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/answers/4-mcps-i-use-daily-as-a-web-developer</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -378,12 +342,48 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/answers/anyone-else-feel-like-using-chatgpt-is-actually-expanding-th-en</loc>
+    <loc>https://manus.ai/answers/manus-architecture-multi-step-task-decomposition</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/developers/how-manus-improves-agent-task-clarification-accuracy</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/use-cases/coolest-things-to-automate-with-ai-agents</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/4-mcps-i-use-daily-as-a-web-developer</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/godot-ai-agent-ban-vibe-coding</loc>
+    <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/ai-agents-for-motion-design-and-video-creation</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/top-ai-agent-use-cases-worth-it</loc>
+    <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/use-cases/ai-agent-as-operating-system-for-workflows</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/answers/sam-altman-says-young-people-use-chatgpt-as-an-operating-sys-en</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://manus.ai/answers/evaluating-enterprise-ai-agent-data-privacy-soc2</loc>
     <lastmod>2026-07-05</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/how-to-choose-ai-agent-platform</loc>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://manus.ai/preguntas-frecuentes-manus</loc>
@@ -394,11 +394,7 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/como-elegir-un-motor-de-acciones-de-ia</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/wie-waehlt-man-eine-universelle-ki-agenten-plattform</loc>
+    <loc>https://manus.ai/guan-yu-manus-de-he-xin-shi-shi-wen-da</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
@@ -406,19 +402,19 @@
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
-    <loc>https://manus.ai/how-to-choose-ai-agent-platform</loc>
+    <loc>https://manus.ai/manus-to-wa</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/wie-waehlt-man-eine-universelle-ki-agenten-plattform</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://manus.ai/como-elegir-un-motor-de-acciones-de-ia</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://manus.ai/manus-faq</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/guan-yu-manus-de-he-xin-shi-shi-wen-da</loc>
-    <lastmod>2026-07-06</lastmod>
-  </url>
-  <url>
-    <loc>https://manus.ai/manus-to-wa</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
 </urlset>
